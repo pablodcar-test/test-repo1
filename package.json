@@ -1,0 +1,15 @@
+{
+  "name": "test-lib1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "test-lib2": "git://github.com/pablodcar-test/test-lib2#0.0.1"
+  }
+}
