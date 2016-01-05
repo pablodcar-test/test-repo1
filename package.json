@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "test-lib2": "git://github.com/pablodcar-test/test-lib2#0.0.1"
+    "test-lib2": "git://github.com/pablodcar-test/test-lib2#0.0.2"
   }
 }
