@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "test-lib2": "git://github.com/pablodcar-test/test-lib2#0.0.1",
-    "test-repo2": "git://github.com/pablodcar-test/test-repo2#0.0.1"
+    "test-repo2": "git://github.com/pablodcar-test/test-repo2#0.1.0"
   }
 }
